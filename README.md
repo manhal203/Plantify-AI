@@ -68,7 +68,7 @@ The app consists of two main screens:
 
 Quick overview of Plantify AI functionality:
 
-https://github.com/user-attachments/assets/6fd5cf3b-2f32-40b4-a0be-9077fef960be
+https://drive.google.com/drive/folders/1hy_RJGgR4oNHXn2LNlRuObvyepgigq8h?usp=sharing
 
 ---
 
@@ -87,6 +87,6 @@ https://aistudio.google.com/app/api-keys
 ---
 
 ## ⚙️ Setup & Installation
-1. Clone the repository: `git clone https://github.com/flutter-gg-2026/meetaflora-manhal203.git`
+1. Clone the repository: `git clone https://github.com/manhal203/Plantify-AI.git`
 2. Install dependencies: `flutter pub get`
 3. Run the app: `flutter run`
